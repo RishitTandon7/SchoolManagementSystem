@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SchoolManagementSystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=conn\ sc
+comment2.target=void\ addStudent(java.sql.Connection,\ java.util.Scanner)
+comment3.params=conn
+comment3.target=void\ viewStudents(java.sql.Connection)
+comment4.params=conn\ sc
+comment4.target=void\ addTeacher(java.sql.Connection,\ java.util.Scanner)
+comment5.params=conn
+comment5.target=void\ viewTeachers(java.sql.Connection)
+comment6.params=conn\ sc
+comment6.target=void\ addCourse(java.sql.Connection,\ java.util.Scanner)
+comment7.params=conn
+comment7.target=void\ viewCourses(java.sql.Connection)
+comment8.params=conn\ sc
+comment8.target=void\ enrollStudent(java.sql.Connection,\ java.util.Scanner)
+comment9.params=conn
+comment9.target=void\ viewEnrollments(java.sql.Connection)
+numComments=10
